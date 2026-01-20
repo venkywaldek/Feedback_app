@@ -1,0 +1,15 @@
+#OS files
+
+.DS_Store
+
+#VS code
+
+.vscode/
+
+#XAMPP / local config
+*.env
+
+#Logs
+*.log
+
+#Cache / temp
